@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">AboutMe</string>
+    <string name="welcome">A Shoabe Shariff Production..</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_splash_screen">AboutMe</string>
+    <string name="introduction">This Android application is devoted to providing up-to-date information on
+         fourth-year Electrical Engineering and Management student, Shoabe Shariff.</string>
+    <string name="title_activity_main">Shoabe Shariff</string>
+    <string name="button_facebook">Facebook</string>
+    <string name="button_twitter">Twitter</string>
+    <string name="button_linkedin">LinkedIn</string>
+    <string name="button_resume">Resume</string>
+
+</resources>
